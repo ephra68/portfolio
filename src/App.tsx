@@ -318,7 +318,7 @@ export default function App() {
               <div className="flex gap-3 mt-auto">
                 {/* Lien public de téléchargement / visionnage */}
                 <a 
-                  href="/Madjalo_Ouya_Ephraim_cv.pdf" 
+                  href="public/Madjalo_Ouya_Ephraim_cv.pdf" 
                   target="_blank" 
                   rel="noreferrer" 
                   className="flex-1 flex items-center justify-center space-x-2 bg-white hover:bg-orange-500 text-black hover:text-white py-3.5 rounded-xl font-bold text-xs transition-all shadow-md uppercase tracking-wider"
@@ -359,7 +359,7 @@ export default function App() {
               <div className="flex gap-3 mt-auto">
                 {/* Lien public de téléchargement / visionnage */}
                 <a 
-                  href="/LM_Madjalo.pdf" 
+                  href="public/LM_Madjalo.pdf" 
                   target="_blank" 
                   rel="noreferrer" 
                   className="flex-1 flex items-center justify-center space-x-2 bg-white hover:bg-orange-500 text-black hover:text-white py-3.5 rounded-xl font-bold text-xs transition-all shadow-md uppercase tracking-wider"
