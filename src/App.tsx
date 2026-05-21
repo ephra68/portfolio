@@ -131,9 +131,9 @@ export default function App() {
           </div>
           
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white leading-[1.1]">
-            Madjalo Ouya Ephraim<br />
+            MADJALO OUYA Ephraim<br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 via-amber-500 to-yellow-400">
-              Intelligence Artificielle & Cybersécurité
+              Expert en Intelligence Artificielle & Cybersécurité
             </span>
           </h1>
           
@@ -174,7 +174,7 @@ export default function App() {
                 <div className="w-3 h-3 rounded-full bg-amber-500/80"></div>
                 <div className="w-3 h-3 rounded-full bg-emerald-500/80"></div>
               </div>
-              <span className="text-[11px] text-slate-500">profile-engine.sh</span>
+              <span className="text-[11px] text-slate-500">Ingineer</span>
             </div>
 
             {/* Zone de profil avec Image et Données Shell */}
@@ -194,14 +194,14 @@ export default function App() {
 
               {/* Contenu textuel Shell */}
               <div className="space-y-3 flex-1">
-                <p><span className="text-purple-400">#!/bin/bash</span></p>
-                <p><span className="text-orange-400">ENGINEER=</span><span className="text-emerald-400">"Madjalo Ouya Ephraim"</span></p>
+                <p><span className="text-purple-400">Chagoua/N'Djamena/Tchad</span></p>
+                <p><span className="text-orange-400">ENGINEER=</span><span className="text-emerald-400">"MADJALO OUYA Ephraim"</span></p>
                 <p><span className="text-orange-400">ALMA_MATER=</span><span className="text-emerald-400">"ENASTIC N'Djamena"</span></p>
                 <p><span className="text-orange-400">CORE_RESEARCH=</span><span className="text-emerald-400">"Intelligent IDS with Deep Learning"</span></p>
-                <p className="text-slate-600 pt-1"># Scanning multi-stack profile...</p>
-                <p className="text-blue-400">echo <span className="text-slate-300">"IA: PyTorch, TensorFlow, Keras, Transformers"</span></p>
-                <p className="text-blue-400">echo <span className="text-slate-300">"Code: Node.js, Python, React, Mobile, C/C++"</span></p>
-                <p className="text-blue-400">echo <span className="text-slate-300">"Data: KoboCollect, PowerBI, SQL, NoSQL"</span></p>
+                <p className="text-slate-600 pt-1"> Scanning multi-stack profile...</p>
+                <p className="text-blue-400">*<span className="text-slate-300">"IA: PyTorch, TensorFlow, Keras, Transformers"</span></p>
+                <p className="text-blue-400">*<span className="text-slate-300">"Code: Node.js, Python, React, Mobile, C/C++"</span></p>
+                <p className="text-blue-400">*<span className="text-slate-300">"Data: KoboCollect, PowerBI, SQL, NoSQL"</span></p>
                 <p className="text-emerald-400 font-bold pt-1">✓ Infrastructure Status: Fully Operational</p>
               </div>
 
